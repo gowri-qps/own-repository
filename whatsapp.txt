@@ -16,3 +16,5 @@ Author: Gowri
 
 7.Adding the Audio call feature
 
+8.Adding status so we can play games
+
