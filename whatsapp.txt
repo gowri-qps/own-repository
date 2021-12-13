@@ -12,6 +12,6 @@ Author: Gowri
 
 5. Hide last seen
 
-6. Addind the Audio call feature
+6. Adding the Audio call feature
 
 7. Adding the Video call feature
