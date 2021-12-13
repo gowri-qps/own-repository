@@ -1,0 +1,11 @@
+This is own repository
+ 
+Author: Gowri 
+
+1. Profile code
+
+2. Chat code
+
+3. Last seen 
+
+4. Attachments(Image,Audio,Video etc) code
