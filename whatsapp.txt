@@ -24,5 +24,7 @@ Author: Gowri
 
 11.Finish the game exceed more than 300 users
 
+12.optional allow if owner accept
+
 
 
